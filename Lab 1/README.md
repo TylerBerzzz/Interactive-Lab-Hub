@@ -62,7 +62,7 @@ Labs are due on Mondays. Make sure this page is linked to on your main class hub
 **_Setting:_** 
 >Imagine - you are working on a team at a manufacturing facility where you're responsible for keeping production line equipment running at all times. When a machine >goes down, the company you work for is losing significant money. On the factory floor, cell phones are not permitted for all workers because they are seen as >distractions that can either cause safety incidents or a losses in worker efficiency. If you are given permission for cellular use, and your phone number is on a call >tree, you risk getting a huge volume of calls for every little issue. Additionally, calls are missed for numerous reasons: being in a meeting, bad signal, phone >prohibited, etc. The interaction with this device is taking place anywhere except on the factory floor.  
 
-**_Players:_ **
+**_Players:_**
 >2 Co-workers are in a meeting to discuss a topic. A Co-worker gets a text message saying "X" machine went down and we can't fix it! Person 1 does not look at his >phone because it is either 1. Seen as Rude, 2. Not as important as the current meeting, 3. Does not have his phone with him.   
 
 **_Activity:_** 
