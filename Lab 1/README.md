@@ -88,7 +88,7 @@ Try physically acting out the interaction you planned. For now, you can just pre
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
 
->No, this interaction is pretty basic on paper and when acting out in reality. Perhaps a more exaggerated response to finding out the machine is down is necessary. It >would also help if player 3 (a robo player) actually went down during the reenactment. 
+>A more exaggerated response to finding out the machine is down is necessary. It would also help if player 3 (a robo player) actually went down during the reenactment, which was hard to act out with a human player. 
 
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
 
