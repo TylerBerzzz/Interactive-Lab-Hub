@@ -110,13 +110,10 @@ If you run into technical issues with this tool, you can also use a light switch
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
-\*\***Include your first attempts at recording the set-up video here.**\*\*
->Setup video can be viewed in the unlisted youtube video shown here: https://youtu.be/80nhA958gKQ
-
+\*\***Include your first attempts at recording the set-up video AND show additional work if necessary.**\*\*
 Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
-
-\*\***Show the follow-up work here.**\*\*
-
+>Setup video can be viewed in the unlisted youtube video shown here: https://youtu.be/80nhA958gKQ
+>The video contains the first attempt and the interaction with the prototype for efficiency. 
 
 ## Part E. Costume the device
 
@@ -134,6 +131,7 @@ Think about the setting of the device: is the environment a place where the devi
 ## Part F. Record
 
 \*\***Take a video of your prototyped interaction.**\*\*
+Video of the prototyped interaction can be viewed in the unlisted youtube video shown here: https://youtu.be/Hn79cg_osKs
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
