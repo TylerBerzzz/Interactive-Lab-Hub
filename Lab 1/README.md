@@ -129,7 +129,7 @@ Think about the setting of the device: is the environment a place where the devi
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
 
 ![More_ComplexPrototype](https://user-images.githubusercontent.com/30520534/187272226-de23355f-623d-44c9-a9ff-03c94720065e.jpg)
-> The device is adhered to a persons wrist. Given that its intended users will be doing hands-on activities, there are many considerations that are necessary. From the ability to maintain on wrist, to maintaining connection with equipment, to the strength of glass on the screen, and much more. To go further, color notification along with "text" and vibration notifications make issues more clear. 
+> The device is strapped to a persons wrist. Given that its intended users will be doing hands-on activities, there are many considerations that are necessary. From the ability to stay in-position on the wrist, to maintaining an established connection with equipment for information transfer in a secure manor, to the strength of glass on the screen, etc. To go further: color notification along with "text" and vibration notifications make issues more clear. 
 
 ## Part F. Record
 
