@@ -135,7 +135,7 @@ Video of the prototyped interaction can be viewed in the unlisted youtube video 
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
-
+>I would like to thank Johnathan Li and Abdulla for being my video subjects! They also gave me good feedback during this time. I would like to also credit the royalty-free explosion VFX used: https://www.videezy.com/abstract/44694-fire-bomb-or-nuclear-explosion
 
 
 # Staging Interaction, Part 2 
