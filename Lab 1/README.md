@@ -78,8 +78,8 @@ Player 3 [robot]: equipment goes down and automatically notifies Player 2.
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 
 \*\***Summarize feedback you got here.**\*\*
->1. Differentiate different machines with different colors.
-2. Use more engaging conversations like about what you did over the weekend. 
+>1. Differentiate machines by color.
+>2. Use more engaging conversations like about what you did over the weekend. 
 >
 
 ## Part B. Act out the Interaction
