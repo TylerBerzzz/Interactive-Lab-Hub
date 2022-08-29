@@ -78,8 +78,8 @@ Labs are due on Mondays. Make sure this page is linked to on your main class hub
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 
 \*\***Summarize feedback you got here.**\*\*
-1. Differentiate different machines with different colors.
-2. Make the person completing the work happier.
+>1. Differentiate different machines with different colors.
+>2. Use more engaging conversations like about what you did over the weekend. 
 
 
 ## Part B. Act out the Interaction
@@ -88,11 +88,11 @@ Try physically acting out the interaction you planned. For now, you can just pre
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
 
-No, this interaction is pretty basic on paper and when acting out in reality. Perhaps a more exaggerated response to finding out the machine is down is necessary. It would also help if player 3 (a robo player) actually went down during the reenactment. 
+>No, this interaction is pretty basic on paper and when acting out in reality. Perhaps a more exaggerated response to finding out the machine is down is necessary. It >would also help if player 3 (a robo player) actually went down during the reenactment. 
 
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
 
-Different conversation topics besides the script in the storyboard comic. Could be talking about anything each of us find interesting and engaging. 
+>Different conversation topics besides the script in the storyboard comic. Could be talking about anything each of us find interesting and engaging. 
 
 ## Part C. Prototype the device
 
