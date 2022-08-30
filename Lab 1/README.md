@@ -131,7 +131,7 @@ Think about the setting of the device: is the environment a place where the devi
 ## Part F. Record
 
 \*\***Take a video of your prototyped interaction.**\*\*
->Video of the prototyped interaction can be viewed in the unlisted youtube video shown here: https://youtu.be/Hn79cg_osKs
+>Video of the prototyped interaction can be viewed in the unlisted youtube video shown here: https://youtu.be/g0W8Mkip66k
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
