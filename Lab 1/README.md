@@ -137,6 +137,7 @@ Think about the setting of the device: is the environment a place where the devi
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
 >I would like to thank Johnathan Li and Abdulla for being my video subjects! They also gave me good feedback during this time. I would like to also credit the royalty-free explosion VFX used: https://www.videezy.com/abstract/44694-fire-bomb-or-nuclear-explosion
 
+**NOTE: I did not collaborate with my classmates for ideation of the deliverables for this lab. During class, I was busy helping other students properly install the required tools to participate in the lab. My ideas were checked with the individuals listed in my acknowledgements**
 
 # Staging Interaction, Part 2 
 
