@@ -167,3 +167,4 @@ During the group exercise, my classmates compared the device to wearable smart w
 >Text: In order to obtain more data from the message, include text and pictures in the notification.
 
 ## Part B. Slightly Modified New Prototype 
+![More_ComplexPrototype2](https://user-images.githubusercontent.com/30520534/188507898-1faf2cb0-de27-42e2-8621-fce689971d38.jpg)
