@@ -158,3 +158,12 @@ Do last week’s assignment again, but this time:
 3) We will be grading with an emphasis on creativity. 
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
+
+## Part A. New Plan: Smart-Watch style
+During the group exercise, my classmates compared the device to wearable smart watches. They spoke of other methods to allow users to interact with the device:
+>Touch: Users can navigate through different notifications using the sense of touch. This can allow more streamlined interaction.
+>Vibration: If LED strobing or other patterns do not work, a haptic motor can alert the user of a notification.
+>Shock: A playful suggestions where the wearable has electrodes and shocks the user for notification - Similar to Pavlok.
+>Text: In order to obtain more data from the message, include text and pictures in the notification.
+
+## Part B. Slightly Modified New Prototype 
