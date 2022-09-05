@@ -177,3 +177,8 @@ During the group exercise, my classmates compared the device to wearable smart w
 ![Storyboard2](https://user-images.githubusercontent.com/30520534/188509772-87f98011-e4e2-4702-aed5-455e785000f9.jpg)
 
 ## Part C. New Record
+Record Link: https://youtu.be/PYgEqELjSq4
+
+## Acknowledgement
+I'd like to acknowledge the Royalty Free sources used in the creation of the New Record: https://www.fesliyanstudios.com/royalty-free-music/downloads-c/scary-horror-music/8
+I'd also like to thank Johnathan Li and Abdullah for their help during this project. 
