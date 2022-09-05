@@ -169,6 +169,6 @@ During the group exercise, my classmates compared the device to wearable smart w
 ## Part B. Slightly Modified New Prototype 
 ![More_ComplexPrototype2](https://user-images.githubusercontent.com/30520534/188507898-1faf2cb0-de27-42e2-8621-fce689971d38.jpg)
 
-## Part C. Costume The Device
+## Costume The Device
 ![More_ComplexPrototype3](https://user-images.githubusercontent.com/30520534/188508286-62a6b1a9-798e-4855-9fab-dd1a19298ee4.jpg)
 >Customizable wrist-band for personalization.
