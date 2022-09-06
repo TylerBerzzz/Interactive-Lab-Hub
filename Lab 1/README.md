@@ -178,6 +178,7 @@ During the group exercise, my classmates compared the device to wearable smart w
 
 ## Part C. New Record
 Record Link: https://youtu.be/PYgEqELjSq4
+> This video has been remade in-response to feedback from the prior video. The length has been adjusted alongside some other video features that the audience recommended.
 
 ## Acknowledgement
 I'd like to acknowledge the Royalty Free sources used in the creation of the New Record: https://www.fesliyanstudios.com/royalty-free-music/downloads-c/scary-horror-music/8
