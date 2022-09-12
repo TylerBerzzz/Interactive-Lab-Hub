@@ -6,6 +6,13 @@ import digitalio
 import board
 from PIL import Image, ImageDraw, ImageFont
 import adafruit_rgb_display.st7789 as st7789
+from adafruit_apds9960.apds9960 import APDS9960
+import random
+
+#Configuration of APDS Sensor to obtain Proximity Information
+i2c = board.I2C()
+apds = APDS9960(i2c)
+apds.enable_proximity = True
 
 # Configuration for CS and DC pins for Raspberry Pi
 cs_pin = digitalio.DigitalInOut(board.CE0)
@@ -73,7 +80,13 @@ buttonA_lastState = False
 
 while True:
     
-    draw.rectangle((0, 0, width, height), outline=0, fill=0)  
+    #Obtain the distance from the prox to determine fill color
+    proxValue = apds.proximity
+    #hexVal = '#%02x%02x%02x' % (proxValue*random.randint(0,2),proxValue,round(proxValue/random.randint(1,10)))
+    hexVal = '#%02x%02x%02x' % (0,0,proxValue)
+    #print(hexVal)
+    #Draw the initial background color
+    draw.rectangle((0, 0, width, height), outline=0, fill=hexVal)  
     
     #If A button is pressed, show the time
     if buttonA.value and not buttonB.value:
