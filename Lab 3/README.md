@@ -113,10 +113,13 @@ Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stu
 
 Write out what you imagine the dialogue to be. Use cards, post-its, or whatever method helps you develop alternatives or group responses. 
 
+\*\***COLLABORATORS: CALVIN TIRRELL, KALYAN GAUTHAM**\*\*
+
 \*\***Please describe and document your process.**\*\*
 This is included in the storyboard and the photo attached below:
+![IMG_5095](https://user-images.githubusercontent.com/30520534/192426613-98dc75d4-7092-4ab8-ad28-9ca2c649f2b6.jpg)
 
-**COLLABORATORS: CALVIN TIRRELL, KALYAN GAUTHAM**
+
 
 ### Acting out the dialogue
 
