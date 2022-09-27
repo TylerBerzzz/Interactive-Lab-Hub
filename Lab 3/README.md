@@ -126,16 +126,13 @@ Shell Script used to save .wav file and run python script
 Python script to analyze what person said and determined if correct or incorrect. 
 ![image](https://user-images.githubusercontent.com/30520534/192427639-aaac2e8f-8982-4c08-a32f-706e10fbfb6d.png)
 
-
-\*\***Video of interaction**\*\*
-When you execute the code, the algorithm will generate a random number and then index the array of numbers between the range of 1 and 3. The User will guess a number, and the algorithm will determine if the user is correct or incorrect.
-https://youtu.be/wx7vjW2fiKs
-
 ### Acting out the dialogue
 
 Find a partner, and *without sharing the script with your partner* try out the dialogue you've designed, where you (as the device designer) act as the device you are designing.  Please record this interaction (for example, using Zoom's record feature).
 
-\*\***Describe if the dialogue seemed different than what you imagined when it was acted out, and how.**\*\*
+\*\***Video of interaction**\*\*
+When you execute the code, the algorithm will generate a random number and then index the array of numbers between the range of 1 and 3. The User will guess a number, and the algorithm will determine if the user is correct or incorrect.
+https://youtu.be/wx7vjW2fiKs
 
 ### Wizarding with the Pi (optional)
 In the [demo directory](./demo), you will find an example Wizard of Oz project. In that project, you can see how audio and sensor data is streamed from the Pi to a wizard controller that runs in the browser.  You may use this demo code as a template. By running the `app.py` script, you can see how audio and sensor data (Adafruit MPU-6050 6-DoF Accel and Gyro Sensor) is streamed from the Pi to a wizard controller that runs in the browser `http://<YouPiIPAddress>:5000`. You can control what the system says from the controller as well!
