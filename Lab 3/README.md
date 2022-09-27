@@ -116,6 +116,8 @@ Write out what you imagine the dialogue to be. Use cards, post-its, or whatever 
 \*\***Please describe and document your process.**\*\*
 This is included in the storyboard and the photo attached below:
 
+**COLLABORATORS: CALVIN TIRRELL, KALYAN GAUTHAM**
+
 ### Acting out the dialogue
 
 Find a partner, and *without sharing the script with your partner* try out the dialogue you've designed, where you (as the device designer) act as the device you are designing.  Please record this interaction (for example, using Zoom's record feature).
