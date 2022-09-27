@@ -127,6 +127,10 @@ Python script to analyze what person said and determined if correct or incorrect
 ![image](https://user-images.githubusercontent.com/30520534/192427639-aaac2e8f-8982-4c08-a32f-706e10fbfb6d.png)
 
 
+\*\***Video of interaction**\*\*
+When you execute the code, the algorithm will generate a random number and then index the array of numbers between the range of 1 and 3. The User will guess a number, and the algorithm will determine if the user is correct or incorrect.
+https://youtu.be/wx7vjW2fiKs
+
 ### Acting out the dialogue
 
 Find a partner, and *without sharing the script with your partner* try out the dialogue you've designed, where you (as the device designer) act as the device you are designing.  Please record this interaction (for example, using Zoom's record feature).
