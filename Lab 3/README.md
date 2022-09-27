@@ -120,6 +120,11 @@ Write out what you imagine the dialogue to be. Use cards, post-its, or whatever 
 This is included in the storyboard and the photo attached below:
 ![IMG_5095](https://user-images.githubusercontent.com/30520534/192426613-98dc75d4-7092-4ab8-ad28-9ca2c649f2b6.jpg)
 
+Shell Script used to save .wav file and run python script
+![image](https://user-images.githubusercontent.com/30520534/192427545-c7ab5c88-b41c-4745-9589-c6117950caeb.png)
+
+Python script to analyze what person said and determined if correct or incorrect. 
+![image](https://user-images.githubusercontent.com/30520534/192427639-aaac2e8f-8982-4c08-a32f-706e10fbfb6d.png)
 
 
 ### Acting out the dialogue
