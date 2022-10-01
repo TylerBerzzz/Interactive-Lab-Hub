@@ -139,11 +139,9 @@ In the [demo directory](./demo), you will find an example Wizard of Oz project. 
 
 \*\***Describe if the dialogue seemed different than what you imagined, or when acted out, when it was wizarded, and how.**\*\*
 
-# Lab 3 Part 2
+# Lab 3 Part 2: NO COLLABORATORS
 
 For Part 2, you will redesign the interaction with the speech-enabled device using the data collected, as well as feedback from part 1.
-
-COLLABORATORS: None
 
 ## Prep for Part 2
 
