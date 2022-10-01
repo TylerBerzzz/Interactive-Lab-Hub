@@ -143,6 +143,8 @@ In the [demo directory](./demo), you will find an example Wizard of Oz project. 
 
 For Part 2, you will redesign the interaction with the speech-enabled device using the data collected, as well as feedback from part 1.
 
+COLLABORATORS: None
+
 ## Prep for Part 2
 
 1. What are concrete things that could use improvement in the design of your device? For example: wording, timing, anticipation of misunderstandings...
