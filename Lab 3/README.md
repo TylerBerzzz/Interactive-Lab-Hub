@@ -172,17 +172,20 @@ Answer the following:
 
 ### What worked well about the system and what didn't?
 \*\**your answer here*\*\*
+Simple and straightforward for users wanting to find out information live.
 
 ### What worked well about the controller and what didn't?
 
 \*\**your answer here*\*\*
+Higher variability in responses leads to unreliable results. The code would need to be developed further to solve this issue. 
 
 ### What lessons can you take away from the WoZ interactions for designing a more autonomous version of the system?
 
 \*\**your answer here*\*\*
+More work towrads the voice recognition understanding the needs of users is critical to advancement. 
 
 
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
 
 \*\**your answer here*\*\*
-
+Machine learning and classification
