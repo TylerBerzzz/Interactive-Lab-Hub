@@ -157,8 +157,13 @@ The system should:
 * require participants to speak to it. 
 
 *Document how the system works*
+A user has a sensor connected to the raspberry pi and is interested in knowing the live sensor data. The user asks for the current measurement of data through vocal interaction. The device pulls data from the sensor and says what the live measurement is. 
 
 *Include videos or screencaptures of both the system and the controller.*
+The Vosk model has been changed to search for certain words in relation to what the user may ask. 
+![image](https://user-images.githubusercontent.com/30520534/193421515-43b112dc-2227-4b50-857b-53fb99be5a69.png)
+![20221001_134026](https://user-images.githubusercontent.com/30520534/193421578-8743cf4c-48da-4c09-b24a-65bc54917248.jpg)
+
 
 ## Test the system
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
