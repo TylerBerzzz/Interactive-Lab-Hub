@@ -172,20 +172,24 @@ Answer the following:
 
 ### What worked well about the system and what didn't?
 \*\**your answer here*\*\*
-Simple and straightforward for users wanting to find out information live.
+The ADPS9960 is not a straight forward proximity sensor and has limited range of operation. See graph below:
+![image](https://user-images.githubusercontent.com/30520534/193728056-ca1e0ea5-88cb-4fc1-9079-d3cbc3e7b351.png)
+
+The sensor produces values between 0 and 255, where 255 is the closest distance to the object. Values before 2CM cannot be measured. The values exponentially decay with time. 
 
 ### What worked well about the controller and what didn't?
 
 \*\**your answer here*\*\*
-Higher variability in responses leads to unreliable results. The code would need to be developed further to solve this issue. 
+Higher variability in user responses can lead to unreliable results. The code would need to be further developed with classification and ml to solve this issue. Stuttering, uh's and errs, etc must be filtered out.  
 
 ### What lessons can you take away from the WoZ interactions for designing a more autonomous version of the system?
+Run the code continuously in the background and have the script look for a wake word (like Alexa). Once that wake word has been said, initiate a python script to analye the responce and perform the operation.  
 
 \*\**your answer here*\*\*
-More work towrads the voice recognition understanding the needs of users is critical to advancement. 
+More work towrads the voice recognition understanding the needs of users is critical to advancement. Changing the sensor will yield far more accurate results. 
 
 
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
 
 \*\**your answer here*\*\*
-Machine learning and classification
+Machine learning and classification to determine whether uhh's, err's or speech issues have been said. 
