@@ -233,6 +233,7 @@ Think about how you want to present the information about what your sensor is se
 Build a cardbord prototype of your design.
 
 **\*\*\*Document your rough prototype.\*\*\***
+![202210111440081000](https://user-images.githubusercontent.com/30520534/195173502-fb0478c3-97a5-45bb-af3b-82ffecac97ee.jpg)
 
 
 LAB PART 2
