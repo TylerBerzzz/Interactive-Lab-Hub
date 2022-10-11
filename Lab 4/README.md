@@ -236,9 +236,7 @@ Build a cardbord prototype of your design.
 
 ![202210111440081000](https://user-images.githubusercontent.com/30520534/195173502-fb0478c3-97a5-45bb-af3b-82ffecac97ee.jpg)
 
-I will be choosing design 1. The rational for the design is closely related to a electronic keyboard. You have a knob for volume and changing the instrument. The keys, are enabled via capacitive touch. During the prototyping phase, it would be smart to design by parts, testing each element of the design separately prior to putting the entire thing together. 
-
-<No cardboard prototype was built.>
+I will be choosing design 1. The rational for the design is closely related to a electronic keyboard. You have a knob for volume and changing the instrument. The keys, are enabled via capacitive touch. During the prototyping phase, it would be smart to design by parts, testing each element of the design separately prior to putting the entire thing together. No cardboard prototype was built.
 
 LAB PART 2
 
