@@ -178,6 +178,9 @@ Usually, sensors need to positioned in specific locations or orientations to mak
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
 **\*\*\*Pick one of these designs to prototype.\*\*\***
+![202210111238221001](https://user-images.githubusercontent.com/30520534/195162750-7b98a19f-119a-482f-ad67-533680bbf5ec.jpg)
+![202210111238221000](https://user-images.githubusercontent.com/30520534/195162774-429688dc-c886-4fe6-ba4e-6952e289f7fb.jpg)
+
 
 
 ### Part D
