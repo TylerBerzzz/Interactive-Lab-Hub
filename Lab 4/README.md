@@ -284,7 +284,7 @@ Document all the prototypes and iterations you have designed and worked on! Agai
 ![image](https://user-images.githubusercontent.com/30520534/196014731-57820e32-8964-499f-b2f4-c73fb8761b77.png)
 
 * "Works like": shows what the device can do
-![image](https://user-images.githubusercontent.com/30520534/196015204-97e6ba98-cef5-4e1e-8de7-49a3d4f5f9b7.png)
+![image](https://user-images.githubusercontent.com/30520534/196018600-6aafb22a-b76b-496c-ac10-3422834f33e9.png)
 
 * "Acts like": shows how a person would interact with the device
 ![image](https://user-images.githubusercontent.com/30520534/196015018-c40f9986-69ec-46c3-bc9c-47266fab1547.png)
