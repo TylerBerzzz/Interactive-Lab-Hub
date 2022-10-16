@@ -168,6 +168,8 @@ The Vosk model has been changed to search for certain words in relation to what 
 ## Test the system
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
 
+ACTED OUT SYSTEM: https://drive.google.com/file/d/1gT_vpVJfqlKo0rJjF66K1s2P-GuiJm8a/view?usp=sharing
+
 Answer the following:
 
 ### What worked well about the system and what didn't?
