@@ -296,3 +296,6 @@ The raspberry pi USB ports are high. This causes the TFT display to be uneven; h
 Video Test to prove functionality:
 https://drive.google.com/file/d/1uVO7GVi7lFBTNpJgbfG4EA0l60R5tcXE/view?usp=sharing
 After this test I changed the algorithm delay time in order to improve response time
+
+Video test with user interaction:
+
