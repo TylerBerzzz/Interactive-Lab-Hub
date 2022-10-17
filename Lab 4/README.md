@@ -289,4 +289,6 @@ Document all the prototypes and iterations you have designed and worked on! Agai
 * "Acts like": shows how a person would interact with the device
 ![image](https://user-images.githubusercontent.com/30520534/196015018-c40f9986-69ec-46c3-bc9c-47266fab1547.png)
 
-
+Cardboard, low-cost, prototyping journey
+![image](https://user-images.githubusercontent.com/30520534/196072506-25ad53f3-cdae-4d99-9707-fc144fd63a13.png)
+The raspberry pi USB ports are high. This causes the TFT display to be uneven; however, it is more important to move forward and test functionality with users. 
