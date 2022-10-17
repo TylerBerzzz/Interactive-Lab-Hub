@@ -292,3 +292,7 @@ Document all the prototypes and iterations you have designed and worked on! Agai
 Cardboard, low-cost, prototyping journey
 ![image](https://user-images.githubusercontent.com/30520534/196072506-25ad53f3-cdae-4d99-9707-fc144fd63a13.png)
 The raspberry pi USB ports are high. This causes the TFT display to be uneven; however, it is more important to move forward and test functionality with users. 
+
+Video Test to prove functionality:
+https://drive.google.com/file/d/1uVO7GVi7lFBTNpJgbfG4EA0l60R5tcXE/view?usp=sharing
+After this test I changed the algorithm delay time in order to improve response time
