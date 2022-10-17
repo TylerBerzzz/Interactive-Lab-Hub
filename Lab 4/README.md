@@ -299,3 +299,5 @@ After this test I changed the algorithm delay time in order to improve response 
 
 Video test with user interaction:
 
+Corrected response time issues. User enjoyed it so much, he wanted to play some more tunes:
+https://drive.google.com/file/d/1uY6IE4M6RqxAWk4stS8fpJ_TTZ7xX_RH/view?usp=sharing
