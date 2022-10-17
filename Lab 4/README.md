@@ -301,3 +301,9 @@ Video test with user interaction:
 
 Corrected response time issues. User enjoyed it so much, he wanted to play some more tunes:
 https://drive.google.com/file/d/1uY6IE4M6RqxAWk4stS8fpJ_TTZ7xX_RH/view?usp=sharing
+
+More users wanted to test:
+https://drive.google.com/file/d/1ueZeqkBBKDz9GkjzgPQi6aSHKxv99uCg/view?usp=sharing
+
+Recognition:
+Thanks to Abdulla and Jonathan for helping test this design. Thanks to the open source python library musical notes for enabling the underlying code. And of course thanks to adafruit and sparkfun for creating the opportunity to use plug and play hardware. 
