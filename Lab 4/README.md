@@ -298,9 +298,10 @@ https://drive.google.com/file/d/1uVO7GVi7lFBTNpJgbfG4EA0l60R5tcXE/view?usp=shari
 After this test I changed the algorithm delay time in order to improve response time
 
 Video test with user interaction:
+https://drive.google.com/file/d/1ubndtbJGs3D1fOoX6CX9ZcaSEhHt7R5N/view?usp=sharing
 
 Corrected response time issues. User enjoyed it so much, he wanted to play some more tunes:
-https://drive.google.com/file/d/1uY6IE4M6RqxAWk4stS8fpJ_TTZ7xX_RH/view?usp=sharing
+https://drive.google.com/file/d/1uaQbZ52q9uzwojcESgRRJQl_hgrPuYtS/view?usp=sharing
 
 More users wanted to test:
 https://drive.google.com/file/d/1ueZeqkBBKDz9GkjzgPQi6aSHKxv99uCg/view?usp=sharing
