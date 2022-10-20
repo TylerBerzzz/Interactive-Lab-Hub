@@ -144,8 +144,11 @@ Try the two main features of this script: 1) pinching for percentage control, an
 ![image](https://user-images.githubusercontent.com/30520534/196958673-0b7c3e3b-461f-4563-9b84-132cb9048f2e.png)
 
 **\*\*\*Consider how you might use this position based approach to create an interaction, and write how you might use it on either face, hand or body pose tracking.\*\*\***
-In baseball, pitchers change their finger formation when throwing the ball for certain pitches. For example, when a knuckleball is thrown. 
+
+In baseball, pitchers change their finger formation when throwing the ball for certain pitches. For example, when a knuckleball is thrown.
+ 
 ![image](https://user-images.githubusercontent.com/30520534/196959488-56689621-6cd7-4b96-9f6e-41e5b1174e2f.png)
+
 As you can see, the fingering is very specific. I would use this approach to create a device for pitchers to be able to analyze their throwing, by comparing hand position and arm movement to the outcome (Strike vs ball). They would interact with the device for analytics and choosing the pitch type they're looking to optimize for.
 
 (You might also consider how this notion of percentage control with hand tracking might be used in some of the physical UI you may have experimented with in the last lab, for instance in controlling a servo or rotary encoder.)
