@@ -99,6 +99,13 @@ pi@ixe00:~/openCV-examples/object-detection $ python detect.py
 ```
 
 **\*\*\*Try each of the following four examples in the `openCV-examples`, include screenshots of your use and write about one design for each example that might work based on the individual benefits to each algorithm.\*\*\***
+![image](https://user-images.githubusercontent.com/30520534/196954288-868f55d6-143c-4524-9340-a4d05c815e0e.png)
+![image](https://user-images.githubusercontent.com/30520534/196954531-093c344a-26aa-440b-bbb4-70bc129c0d1a.png)
+![image](https://user-images.githubusercontent.com/30520534/196954792-3ed71e15-616f-4b8c-8a8b-26db89a629fb.png)
+![image](https://user-images.githubusercontent.com/30520534/196955222-e1c67fca-2ee1-4171-b028-ea15fa71b59c.png)
+
+Object detection could be very helpful for in shopping in order to cross check what items people buy versus what they put back. They can utalize object detection data in supermarkets and cross check it with receipts from the customer.  
+
 
 #### MediaPipe
 
