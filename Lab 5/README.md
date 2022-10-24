@@ -215,7 +215,10 @@ Try out different interaction outputs and inputs.
 
 
 **\*\*\*Describe and detail the interaction, as well as your experimentation here.\*\*\***
-A person puts on a mask and the algorithm is able to identify that a mask has been put on their face. (Show Storyboard below)
+A person puts on a mask and the algorithm is able to identify that a mask has been put on their face. 
+
+![image](https://user-images.githubusercontent.com/30520534/197649016-cca5083a-e0e2-4c93-8f64-609779ba0a2e.png)
+
 
 ### Part C
 ### Test the interaction prototype
