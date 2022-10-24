@@ -213,25 +213,42 @@ Pick one of the models you have tried, pick a class of objects, and experiment w
 This can be as simple as the boat detector earlier.
 Try out different interaction outputs and inputs.
 
-![image](https://user-images.githubusercontent.com/30520534/196962737-50cb1943-ab21-4dcc-9b84-4f625f82b1cb.png)
+
 **\*\*\*Describe and detail the interaction, as well as your experimentation here.\*\*\***
-A person puts on a mask and the algorithm is able to identify that a mask has been put on their face. 
+A person puts on a mask and the algorithm is able to identify that a mask has been put on their face. (Show Storyboard below)
 
 ### Part C
 ### Test the interaction prototype
 
+![image](https://user-images.githubusercontent.com/30520534/196962737-50cb1943-ab21-4dcc-9b84-4f625f82b1cb.png)
+
 Now flight test your interactive prototype and **note down your observations**:
 For example:
+
 1. When does it what it is supposed to do?
-1. When does it fail?
-1. When it fails, why does it fail?
-1. Based on the behavior you have seen, what other scenarios could cause problems?
+A: It is able to recognize a mask on my face partially
+
+3. When does it fail?
+A: Under certain lighting conditions it fails to properly register
+
+5. When it fails, why does it fail?
+A: Lighting conditions make the mast unrecognizable. 
+
+7. Based on the behavior you have seen, what other scenarios could cause problems?
+The algorithm needs more training data for identification. Masks of different designs don't seem to work well. 
 
 **\*\*\*Think about someone using the system. Describe how you think this will work.\*\*\***
 1. Are they aware of the uncertainties in the system?
-1. How bad would they be impacted by a miss classification?
-1. How could change your interactive system to address this?
-1. Are there optimizations you can try to do on your sense-making algorithm.
+A: They are likely unaware of the uncertainties unless they have been told by the ones who have designed the system.
+
+3. How bad would they be impacted by a miss classification?
+A: Would not be the end of the world
+
+4. How could change your interactive system to address this?
+A auditory alert system could help notify the person without a mask on to put it on. 
+
+6. Are there optimizations you can try to do on your sense-making algorithm.
+A: perhaps further training on contour vision for other models will help the algorithm make sense of other objects on face.  
 
 ### Part D
 ### Characterize your own Observant system
