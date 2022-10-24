@@ -267,6 +267,7 @@ During the lecture, we mentioned questions to help characterize a material:
 * How does X feel?
 
 **\*\*\*Include a short video demonstrating the answers to these questions.\*\*\***
+https://drive.google.com/file/d/1x4w463OFGg-AwveEyPjC7ru5onjPUaR9/view?usp=sharing
 
 ### Part 2.
 
