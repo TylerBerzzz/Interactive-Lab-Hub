@@ -282,7 +282,7 @@ https://drive.google.com/file/d/1esJQVwMThd8nPIAIQRti2_Db8V1NAx1D/view?usp=shari
 In the last section, I wrote about the limitations of the selected prototype. It was tough to determine someone had a mask on within the video, changing backgrounds were an issue, and there were several ways the code to break. In this section, I sought to comprimise for some (not all) limitations of the prior art. I extended my search to avaiable libraries online to help with this quest - a big thank you to chandrikadeb7 for his resourceful Face-Mask-Detection work. 
 
 Reflection of the wizarding:
-This was a tough because it was discussed in the prior section and this activity was so technically focused. In order to test the interactive system in part 2, I had user testers experiment with and without a mask on. The influence of the behavior of the system demanding the user to put a mask back on would be more representative, but proved difficult to implement 
+This was a tough because it was discussed in the prior section and this activity was so technically focused. In order to test the interactive system in part 2, I had user testers experiment with and without a mask on. The influence of the behavior of the system demanding the user to put a mask back on would be more representative, but proved difficult to implement. Compared to part 1, this was tested with different users and different backgrounds. It was also tested with different kinds of masks on each user! 
 
 Future Improvements:
 Raspberry Pi 4 was far too slow at updating in real-time. A better computer needs to be used to support such a system. In addition, the system was not perfect and had instances where it said I was not wearing a mask but infact I was 
