@@ -274,3 +274,16 @@ https://drive.google.com/file/d/1x4w463OFGg-AwveEyPjC7ru5onjPUaR9/view?usp=shari
 Following exploration and reflection from Part 1, finish building your interactive system, and demonstrate it in use with a video.
 
 **\*\*\*Include a short video demonstrating the finished result.\*\*\***
+
+![image](https://user-images.githubusercontent.com/30520534/199155756-c5d5b040-afb7-4b12-a663-f32966a87396.png) 
+
+https://drive.google.com/file/d/1esJQVwMThd8nPIAIQRti2_Db8V1NAx1D/view?usp=sharing
+
+In the last section, I wrote about the limitations of the selected prototype. It was tough to determine someone had a mask on within the video, changing backgrounds were an issue, and there were several ways the code to break. In this section, I sought to comprimise for some (not all) limitations of the prior art. I extended my search to avaiable libraries online to help with this quest - a big thank you to chandrikadeb7 for his resourceful Face-Mask-Detection work. 
+
+Reflection of the wizarding:
+This was a tough because it was discussed in the prior section and this activity was so technically focused. In order to test the interactive system in part 2, I had user testers experiment with and without a mask on. The influence of the behavior of the system demanding the user to put a mask back on would be more representative, but proved difficult to implement 
+
+Future Improvements:
+Raspberry Pi 4 was far too slow at updating in real-time. A better computer needs to be used to support such a system. In addition, the system was not perfect and had instances where it said I was not wearing a mask but infact I was 
+
