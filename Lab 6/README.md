@@ -156,14 +156,22 @@ Of course not! You can go to [https://one-true-colornet.glitch.me/](https://one-
 ### Make it your own
 
 Find at least one class (more are okay) partner, and design a distributed application together based on the exercise we asked you to do in this lab.
+Partner: Calvin Tirrell for this assignment. 
 
 **\*\*\*1. Explain your design\*\*\*** For example, if you made a remote controlled banana piano, explain why anyone would want such a thing.
+We have decided to create a crash detection module for cars in garages. This device uses time of flight to determine the distance of objects from the breakout board. People would want to use this if they have cluttered garages with spaces that their cars might not have proximity sensors. Older cars are not as fortunate as newer cars for determining this critical information. Also car mirrors are likely to be scratched or hit when backing into a cluttered space.  
 
 **\*\*\*2. Diagram the architecture of the system.\*\*\*** Be clear to document where input, output and computation occur, and label all parts and connections. For example, where is the banana, who is the banana player, where does the sound get played, and who is listening to the banana music?
+
+Sensor Input: The time of flight distance of the object approaching the sensor
+Output: The LED Stack brightness showing the user how close they are with respect to brightness intensity.
+MQTT: Communication alert that there has been a collision for other users to know what happened. Think about your teenage child crashing your car while backing it up into the garage. 
 
 **\*\*\*3. Build a working prototype of the system.\*\*\*** Do think about the user interface: if someone encountered these bananas somewhere in the wild, would they know how to interact with them? Should they know what to expect?
 
 **\*\*\*4. Document the working prototype in use.\*\*\*** It may be helpful to record a Zoom session where you should the input in one location clearly causing response in another location.
+![image](https://user-images.githubusercontent.com/30520534/200143756-7a0bfa1e-5428-4062-8889-9f2fc726352c.png)
 
+https://youtu.be/SKAGSQa_xMk
 <!--**\*\*\*5. BONUS (Wendy didn't approve this so you should probably ignore it)\*\*\*** get the whole class to run your code and make your distributed system BIGGER.-->
 
