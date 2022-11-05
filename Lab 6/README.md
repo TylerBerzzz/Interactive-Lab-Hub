@@ -87,6 +87,12 @@ Once connected, you should be able to see all the messages under the IDD topic. 
 
 **\*\*\*Consider how you might use this messaging system on interactive devices, and draw/write down 5 ideas here.\*\*\***
 
+1. Allowing a user to tap a bannana to produce morse code. This allows them to send cryptic information over MQTT to another party so that people in the same room can't decipher what messages are being told.
+2. Allowing people to play chess on a smart chess board have the board magnetically move the pieces. Information can be sent over MQTT in order for the players to compete with eachother from anywhere in the world.
+3. Using MQTT to enable InfraRed(IR) remote transmittion to control TV's. This allows users to control timely control their IR devices - think of turning on the tv for your favorite show / streaming service at a specific time during the day.    
+4. Controlling a robotic hand using your own hand, enabled by MQTT
+5. Relaying all notifications recieved by a user to one platform. 
+
 ### Part C
 ### Streaming a Sensor
 
