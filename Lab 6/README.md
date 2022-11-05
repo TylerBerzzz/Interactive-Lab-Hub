@@ -83,6 +83,7 @@ Once connected, you should be able to see all the messages under the IDD topic. 
   (circuitpython) pi@ixe00:~ Interactive-Lab-Hub/Lab 6 $ python reader.py
   ...
   ```
+![image](https://user-images.githubusercontent.com/30520534/200140233-f4d81007-22e8-4151-95d1-523f10fd4aab.png)
 
 **\*\*\*Consider how you might use this messaging system on interactive devices, and draw/write down 5 ideas here.\*\*\***
 
