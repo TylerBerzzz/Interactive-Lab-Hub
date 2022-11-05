@@ -117,6 +117,7 @@ Plug in the capacitive sensor board with the Qwiic connector. Use the alligator 
 ![image](https://user-images.githubusercontent.com/30520534/200141210-b2c5eff7-9dcf-4bd1-9f95-5cb59723a038.png)
 
 **\*\*\*Pick another part in your kit and try to implement the data streaming with it.\*\*\***
+
 https://youtu.be/VX8lVMz4dhk
 
 ### Part D
