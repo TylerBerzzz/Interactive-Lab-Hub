@@ -169,6 +169,8 @@ MQTT: Communication alert that there has been a collision for other users to kno
 
 **\*\*\*3. Build a working prototype of the system.\*\*\*** Do think about the user interface: if someone encountered these bananas somewhere in the wild, would they know how to interact with them? Should they know what to expect?
 
+We thought about the user. At first we considered only having a communication message to notify the user of closeness, but then thought that the best path was to add light. Humans are more accustomed to light (and color) for explaining the status of sensory objects. This human instinct would make it easy to pair close proximity with increasing brightness intensity. Future improvements would to be to add stop light colors and sound to the interaction.
+
 **\*\*\*4. Document the working prototype in use.\*\*\*** It may be helpful to record a Zoom session where you should the input in one location clearly causing response in another location.
 ![image](https://user-images.githubusercontent.com/30520534/200143756-7a0bfa1e-5428-4062-8889-9f2fc726352c.png)
 
