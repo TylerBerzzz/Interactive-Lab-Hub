@@ -2,7 +2,6 @@ Inspiration & Need:
 
 My father has a pool in Florida and currently scoops out items on the surface by manually swooping a butterfly net across the pool. This is bad for his back, boring, and takes a long time to do a good job. Thus, there is a need to develop a controllable aquatic vehical to capture debris.
 
-Value Prop
 ![image](https://user-images.githubusercontent.com/30520534/206319954-3f09ea07-08f3-4c4a-996f-c6462ef12abf.png)
 
 
@@ -17,4 +16,16 @@ Storyboard:
 
 Paper Prototype:
 
-Physics:
+
+Design Approach:
+1. Physics
+![image](https://user-images.githubusercontent.com/30520534/206320059-0dcfddd6-a985-4594-ab5c-49d9ea87beb4.png)
+![image](https://user-images.githubusercontent.com/30520534/206320071-85f08ea9-19ed-47cb-a18b-0a6a8e83e5c4.png)
+
+2. System
+![image](https://user-images.githubusercontent.com/30520534/206320134-90b65567-e11b-4768-adab-516de3347409.png)
+
+Derisking: 
+![image](https://user-images.githubusercontent.com/30520534/206320264-6dc306fc-7e7d-49b7-b33f-ade6b398fb12.png)
+
+![image](https://user-images.githubusercontent.com/30520534/206320280-11366dbb-e6ac-42ab-9d4a-5dae17e665ac.png)
