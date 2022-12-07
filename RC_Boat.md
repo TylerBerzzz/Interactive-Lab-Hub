@@ -28,6 +28,10 @@ My father has a pool in Florida and currently scoops out items on the surface by
 ![image](https://user-images.githubusercontent.com/30520534/206320280-11366dbb-e6ac-42ab-9d4a-5dae17e665ac.png)
 
 # Rapid Prototyping:
+1. From the Derisking step, Prove that I can control servos and motors using a tethered microcontroller: https://youtu.be/NyBV2msOd8c 
+2. Prove that I can identify "blobs" on the surface of water
+![image](https://user-images.githubusercontent.com/30520534/206321396-904bf5ce-d0db-4e0e-a1ee-044af769cd89.png)
+**Using the OPENCV library in python for blob detection:**
 
 
 # Working Prototype #1:
