@@ -11,7 +11,11 @@ My father has a pool in Florida and currently scoops out items on the surface by
 
 # Storyboard: 
 
+![image](https://user-images.githubusercontent.com/30520534/206777969-39ca0333-7100-4325-94bc-3046b0f46487.png)
+
 # Paper Prototype:
+
+![image](https://user-images.githubusercontent.com/30520534/206779013-293d5c9e-f886-4e6e-bcad-64fa8a5e06e3.png)
 
 
 # Design Approach:
