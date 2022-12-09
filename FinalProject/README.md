@@ -33,10 +33,19 @@ My father has a pool in Florida and currently scoops out items on the surface by
 ![image](https://user-images.githubusercontent.com/30520534/206321396-904bf5ce-d0db-4e0e-a1ee-044af769cd89.png)
 **Using the OPENCV library in python for blob detection:**
 ![image](https://user-images.githubusercontent.com/30520534/206325947-648905d3-6feb-4661-80c4-e835f8a0b031.png)
+**Proving Radio Communication:** https://drive.google.com/file/d/1tiYHBXwHc78OS9yToECbyxECfWwvj2Mj/view?usp=share_link
 
 # Prototype 1:
+**Electronics System Design**
 ![image](https://user-images.githubusercontent.com/30520534/206327584-f6b07bae-854b-4a17-9e16-181b0bcaea04.png)
 
-![image](https://user-images.githubusercontent.com/30520534/206770511-b0af42a3-6034-4830-80ae-8aa322c970f9.png)
+**Manufacturing the boat**
+![image](https://user-images.githubusercontent.com/30520534/206772924-91cdfa04-8836-4121-8a72-7db9de4de1a1.png)
+![Uploading image.png…]()
 
-5V battery current was unable to support the current required from the 12V motor, even after boosting it to 12 Volts. For this reason, a wired power supply was needed to sustain motion of the watercraft.
+Polystyrene foam was used because of its low density. A hot wire, nichrome, cutter enabled shaping the foam to the desired shape of interest. Using the physics equations in the prior sections, I was able to be certain that the design was displacing enough water to float. 
+
+**Float and Propulsion Test**
+![image](https://user-images.githubusercontent.com/30520534/206770511-b0af42a3-6034-4830-80ae-8aa322c970f9.png)
+Video Link: https://drive.google.com/file/d/1zhyq8YiV5g2q668cihxcUEzAEmSBbmOi/view?usp=share_link
+Note: 5V battery current was unable to support the current required from the 12V motor, even after boosting it to 12 Volts. For this reason, a wired power supply was needed to sustain motion of the watercraft.
