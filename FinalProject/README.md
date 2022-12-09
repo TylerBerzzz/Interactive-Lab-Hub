@@ -55,5 +55,7 @@ The radio sender was connected to a joystick and tethered to a computer to provi
 **Float and Propulsion Test with Interaction driving the boat**
 
 ![image](https://user-images.githubusercontent.com/30520534/206770511-b0af42a3-6034-4830-80ae-8aa322c970f9.png)
+
+
 Video Link: https://drive.google.com/file/d/1zhyq8YiV5g2q668cihxcUEzAEmSBbmOi/view?usp=share_link
 Note: 5V battery current was unable to support the current required from the 12V motor, even after boosting it to 12 Volts. For this reason, a wired power supply was needed to sustain motion of the watercraft.
