@@ -37,3 +37,6 @@ My father has a pool in Florida and currently scoops out items on the surface by
 # Prototype 1:
 ![image](https://user-images.githubusercontent.com/30520534/206327584-f6b07bae-854b-4a17-9e16-181b0bcaea04.png)
 
+![image](https://user-images.githubusercontent.com/30520534/206770511-b0af42a3-6034-4830-80ae-8aa322c970f9.png)
+
+5V battery current was unable to support the current required from the 12V motor, even after boosting it to 12 Volts. For this reason, a wired power supply was needed to sustain motion of the watercraft.
