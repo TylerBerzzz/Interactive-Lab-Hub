@@ -48,6 +48,7 @@ Polystyrene foam was used because of its low density. A hot wire, nichrome, cutt
 ![image](https://user-images.githubusercontent.com/30520534/206773600-03d9478c-c211-4618-8c37-084a6fbad567.png)
 
 **Radio Controller** 
+
 ![image](https://user-images.githubusercontent.com/30520534/206774214-4cb8b398-20e4-4ffe-a4eb-f0a64bd303ba.png)
 
 The radio sender was connected to a joystick and tethered to a computer to provide power. 
