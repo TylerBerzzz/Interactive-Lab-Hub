@@ -42,7 +42,8 @@ My father has a pool in Florida and currently scoops out items on the surface by
 ![image](https://user-images.githubusercontent.com/30520534/206321396-904bf5ce-d0db-4e0e-a1ee-044af769cd89.png)
 **Using the OPENCV library in python for blob detection:**
 ![image](https://user-images.githubusercontent.com/30520534/206325947-648905d3-6feb-4661-80c4-e835f8a0b031.png)
-**Proving Radio Communication:** https://drive.google.com/file/d/1tiYHBXwHc78OS9yToECbyxECfWwvj2Mj/view?usp=share_link
+3.Prove wireless (Radio) Communication: 
+https://drive.google.com/file/d/1tiYHBXwHc78OS9yToECbyxECfWwvj2Mj/view?usp=share_link
 
 # Prototype 1:
 **Electronics System Design**
