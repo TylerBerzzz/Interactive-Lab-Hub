@@ -9,6 +9,11 @@ My father has a pool in Florida and currently scoops out items on the surface by
 2. To prove I can communicate with the boat from a distance effectively
 3. Incorporate forward thinking in iterating off of a built prototype. 
 
+# Previously Submitted Project Plan
+![image](https://user-images.githubusercontent.com/30520534/206780269-684acab9-24ee-4d10-9673-7a4d53f5cd89.png)
+![image](https://user-images.githubusercontent.com/30520534/206780281-22ff919f-d667-4ef0-816d-4c10e1fd4ee2.png)
+
+
 # Storyboard: 
 
 ![image](https://user-images.githubusercontent.com/30520534/206777969-39ca0333-7100-4325-94bc-3046b0f46487.png)
