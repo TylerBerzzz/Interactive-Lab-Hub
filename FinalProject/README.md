@@ -41,11 +41,19 @@ My father has a pool in Florida and currently scoops out items on the surface by
 
 **Manufacturing the boat**
 ![image](https://user-images.githubusercontent.com/30520534/206772924-91cdfa04-8836-4121-8a72-7db9de4de1a1.png)
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/30520534/206773780-bdb47093-72cb-4a48-8853-9e2edc817609.png)
 
 Polystyrene foam was used because of its low density. A hot wire, nichrome, cutter enabled shaping the foam to the desired shape of interest. Using the physics equations in the prior sections, I was able to be certain that the design was displacing enough water to float. 
 
-**Float and Propulsion Test**
+![image](https://user-images.githubusercontent.com/30520534/206773600-03d9478c-c211-4618-8c37-084a6fbad567.png)
+
+**Radio Controller** 
+![image](https://user-images.githubusercontent.com/30520534/206774214-4cb8b398-20e4-4ffe-a4eb-f0a64bd303ba.png)
+
+The radio sender was connected to a joystick and tethered to a computer to provide power. 
+
+**Float and Propulsion Test with Interaction driving the boat**
+
 ![image](https://user-images.githubusercontent.com/30520534/206770511-b0af42a3-6034-4830-80ae-8aa322c970f9.png)
 Video Link: https://drive.google.com/file/d/1zhyq8YiV5g2q668cihxcUEzAEmSBbmOi/view?usp=share_link
 Note: 5V battery current was unable to support the current required from the 12V motor, even after boosting it to 12 Volts. For this reason, a wired power supply was needed to sustain motion of the watercraft.
