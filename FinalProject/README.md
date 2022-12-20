@@ -1,4 +1,4 @@
-Link to original Repo: https://github.com/TylerBerzzz/Interactive-Lab-Hub
+Link to repo:  https://github.com/TylerBerzzz/Interactive-Lab-Hub/tree/Fall2022/FinalProject
 
 # Inspiration & Need:
 
